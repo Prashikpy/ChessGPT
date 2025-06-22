@@ -1,8 +1,4 @@
-<<<<<<< HEAD
+
 streamlit
 python-chess
-=======
-streamlit
-python-chess
->>>>>>> cda85f20a45b1b4cce23db799dd1828021371b5c
 stockfish
